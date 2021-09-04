@@ -1,0 +1,23 @@
+{
+    "name": "anhoder/boyer-moore",
+    "description": "Boyer-Moore algorithm in PHP(support Chinese).",
+    "type": "library",
+    "require": {
+        "symfony/polyfill-mbstring": "^1.23"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Anhoder\\BoyerMoore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anhoder",
+            "email": "anhoderai@88.cn"
+        }
+    ]
+}
