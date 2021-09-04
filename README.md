@@ -1,9 +1,9 @@
 PHP实现的Boyer-Moore字符搜索算法，支持中文。
 PHP implementation of Boyer-Moore character search algorithm, support for Chinese.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/anhoder/) ![GitHub](https://img.shields.io/github/license/anhoder/go-musicfox) ![Last Tag](https://badgen.net/github/tag/anhoder/go-musicfox) ![GitHub last commit](https://badgen.net/github/last-commit/anhoder/go-musicfox) ![GitHub All Releases](https://img.shields.io/github/downloads/anhoder/go-musicfox/total)
+![GitHub repo size](https://img.shields.io/github/repo-size/anhoder/boyer-moore) ![GitHub](https://img.shields.io/github/license/anhoder/boyer-moore) ![Last Tag](https://badgen.net/github/tag/anhoder/boyer-moore) ![GitHub last commit](https://badgen.net/github/last-commit/anhoder/boyer-moore) ![GitHub All Releases](https://img.shields.io/github/downloads/anhoder/boyer-moore/total)
 
-![GitHub stars](https://img.shields.io/github/stars/anhoder/go-musicfox?style=social) ![GitHub forks](https://img.shields.io/github/forks/anhoder/go-musicfox?style=social)
+![GitHub stars](https://img.shields.io/github/stars/anhoder/boyer-moore?style=social) ![GitHub forks](https://img.shields.io/github/forks/anhoder/boyer-moore?style=social)
 
 ## Requirement
 
