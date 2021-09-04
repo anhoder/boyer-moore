@@ -200,7 +200,6 @@ class BoyerMooreMatcher
                         throw new RuntimeException("Dont support this match mode({$matchMode})");
                 }
             }
-            var_dump($steps);
 
             $i += ($steps >= 0 ? $steps : 1);
         }
