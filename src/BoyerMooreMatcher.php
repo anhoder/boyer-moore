@@ -7,7 +7,7 @@
  * 2021/9/4 12:47 上午
  */
 
-namespace Anhoder\BoyerMoore;
+namespace Anhoder\Matcher;
 
 use RuntimeException;
 

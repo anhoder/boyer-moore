@@ -2,6 +2,12 @@
     "name": "anhoder/boyer-moore",
     "description": "Boyer-Moore algorithm in PHP(support Chinese).",
     "type": "library",
+    "keywords": [
+        "Boyer-Moore",
+        "string match",
+        "Chinese",
+        "Unicode"
+    ],
     "require": {
         "symfony/polyfill-mbstring": "^1.23"
     },
@@ -11,7 +17,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Anhoder\\BoyerMoore\\": "src/"
+            "Anhoder\\Matcher\\": "src/"
         }
     },
     "authors": [

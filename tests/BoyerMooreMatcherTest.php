@@ -7,7 +7,7 @@
  * 2021/9/4 12:59 上午
  */
 
-use Anhoder\BoyerMoore\BoyerMooreMatcher;
+use Anhoder\Matcher\BoyerMooreMatcher;
 use PHPUnit\Framework\TestCase;
 
 class BoyerMooreMatcherTest extends TestCase
