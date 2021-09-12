@@ -201,7 +201,7 @@ class BoyerMooreMatcher
                 }
             }
 
-            $i += ($steps >= 0 ? $steps : 1);
+            $i += max($steps, 1);
         }
 
         return $res;
